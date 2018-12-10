@@ -78,6 +78,32 @@ Enter the no of terms:5
   *****
  *******
  
+ 7)stars.c
+ 
+ Use:For printing diamond pattern of stars for the given no of times
+ 
+ Example:
+ 
+Enter the no of terms:3
+Enter the total no of patterns to be printed:3
+  **
+ ****
+******
+ ****
+  **
+   
+  **
+ ****
+******
+ ****
+  **
+   
+  **
+ ****
+******
+ ****
+  **
+ 
  ------------------------------END OF FILE--------------------------------------
 
 
