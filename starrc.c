@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main(void)
+int main()
 {
     int n,i,j;
     printf("Enter the no of terms:"); 
@@ -13,5 +13,6 @@ int main(void)
         }
         printf("\n"); //New line to start printing next row
     }
+    return 0;
     
 }
